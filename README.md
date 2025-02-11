@@ -5,4 +5,5 @@ The Products API is a simple RESTful application that allows you to create, retr
 🛠 Tecnologias Utilizadas
 
 Backend: Java + Spring Boot
+
 Banco de Dados: H2 memory bank
